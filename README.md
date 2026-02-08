@@ -1,0 +1,1 @@
+copy this gui.js then go to blooket, ctrl shift i, go to console and if you paste and it says no write allow pasting then press enter and then paste and then enter and you have blooket stuff commands. BYE
